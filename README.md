@@ -3,13 +3,13 @@ README.md# sakshi-kashyap
 I am a digital marketing with ai.
 
 *skill 
-digital marketing
-AI tools
-video editing
+1*digital marketing
+2*AI tools
+3*video editing
 
 *linkdin
 https://www.linkedin.com/in/sakshi-kashyap-95b71b43a
 
 * my task
- create repository 
-index.html
+ 1*create repository 
+2*index.html
